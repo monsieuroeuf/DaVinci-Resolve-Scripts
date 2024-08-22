@@ -16,7 +16,7 @@
 --]]
 
 -- USER CONFIG AREA ---------------------------------------
-track_name = "Sous-titre 1"
+track_name = "Video 1"
 csv_colors = "#FF0000,#00FF00,#FFFF00"
 separator = ","
 
